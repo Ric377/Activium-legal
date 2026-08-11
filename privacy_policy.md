@@ -2,8 +2,8 @@
 
 **Обновлено:** 12 августа 2026 г.
 
-Публичная ссылка:  
-https://raw.githubusercontent.com/Ric377/Activium-legal/main/privacy_policy.md
+Публичная ссылка:
+https://ric377.github.io/Activium-legal/privacy_policy.html
 
 ---
 

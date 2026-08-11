@@ -1,8 +1,9 @@
-﻿# Activium — правовые документы
+# Activium — правовые документы
 
-Публичные тексты политики конфиденциальности и условий использования приложения Активиум.
+Читаемый вид (без «решёток» Markdown):
 
-- [Политика конфиденциальности](privacy_policy.md) ([raw](https://raw.githubusercontent.com/Ric377/Activium-legal/main/privacy_policy.md))
-- [Условия использования](terms_of_use.md) ([raw](https://raw.githubusercontent.com/Ric377/Activium-legal/main/terms_of_use.md))
+- [Политика конфиденциальности](https://ric377.github.io/Activium-legal/privacy_policy.html)
+- [Условия использования](https://ric377.github.io/Activium-legal/terms_of_use.html)
+- [Оглавление](https://ric377.github.io/Activium-legal/)
 
 Исходный код приложения в этом репозитории не публикуется.
