@@ -3,7 +3,7 @@
 **Обновлено:** 12 августа 2026 г.
 
 Публичная ссылка:
-https://ric377.github.io/Activium-legal/terms_of_use.html
+https://github.com/Ric377/Activium-legal/blob/main/terms_of_use.md
 
 Приложение Активиум (Activium), пакет `com.richapp.activium`, предоставляет самозанятый Челидзе Ричард Ноевич (плательщик налога на профессиональный доход), ИНН 381614851029, адрес электронной почты activium.app@yandex.ru (далее — разработчик).
 
@@ -72,7 +72,7 @@ https://ric377.github.io/Activium-legal/terms_of_use.html
 ## 8. Изменения
 
 Разработчик вправе обновлять настоящие Условия. Актуальная редакция размещается в приложении (раздел настроек) и по адресу:
-https://ric377.github.io/Activium-legal/terms_of_use.html
+https://github.com/Ric377/Activium-legal/blob/main/terms_of_use.md
 При существенных изменениях приложение может повторно запросить принятие документов. Продолжение использования после принятия новой редакции означает согласие с ней.
 
 ---
